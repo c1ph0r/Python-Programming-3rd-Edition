@@ -27,4 +27,3 @@ input("Press the enter key to find out.")
 print("107 % 4 =", 107 % 4)
 
 input("Press the enter key to exit.")
-
