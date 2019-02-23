@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dd9c908-7707-4b65-b187-a0e7835d3bf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch2_trust_fund_good.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch2_useless_trivia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch2_trust_fund_good.py">
+        <entry file="file://$PROJECT_DIR$/ch2_useless_trivia.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="510">
+              <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -47,6 +48,7 @@
         <option value="$PROJECT_DIR$/ch2_quotation_manipulation.py" />
         <option value="$PROJECT_DIR$/ch2_trust_fund_bad.py" />
         <option value="$PROJECT_DIR$/ch2_trust_fund_good.py" />
+        <option value="$PROJECT_DIR$/ch2_useless_trivia.py" />
       </list>
     </option>
   </component>
@@ -353,6 +355,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2_useless_trivia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
