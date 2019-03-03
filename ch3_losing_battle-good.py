@@ -1,5 +1,5 @@
 # Doug's Losing Battle
-# Fixed 
+# Fixed
 
 print("The lone Doug is surrounded by a massive army of trolls.")
 print("Their non-Dougness, offending him with the anger of 1000 suns.")
