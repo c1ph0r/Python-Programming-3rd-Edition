@@ -1,6 +1,7 @@
 # High Scores 2.0
 # Demonstrates nested sequences
 import os
+
 scores = []
 
 choice = None
