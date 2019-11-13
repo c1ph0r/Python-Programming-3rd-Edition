@@ -52,6 +52,7 @@ while choice != "0":
     # add a term-definition pair
     elif choice == "2":
         os.system('CLS')
+        print("\n", geek.keys())
         term = input("\nWhat term do you want to add?: ")
         if term not in geek:
             definition = input("\nWhat's the definition?: ")
@@ -67,6 +68,7 @@ while choice != "0":
     # redefine an existing term
     elif choice == "3":
         os.system('CLS')
+        print("\n", geek.keys())
         term = input("\nWhat term do you want me to redefine?: ")
         if term in geek:
             definition = input("What's the new definition?: ")
@@ -82,6 +84,7 @@ while choice != "0":
     # delete a term-definition pair
     elif choice == "4":
         os.system('CLS')
+        print("\n", geek.keys())
         term = input("\nWhat term do you want to delete?: ")
         if term in geek:
             del geek[term]
